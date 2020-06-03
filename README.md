@@ -1,5 +1,5 @@
 ---
-## Alpha principles for the Ethical Use of AI and Other Data Driven Technologies
+## Alpha Principles for the Ethical Use of AI and Other Data Driven Technologies
 ---
 
 #Proposed Principles for Ethical Use of Data Driven Technologies in Ontario  
