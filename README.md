@@ -4,7 +4,9 @@
 
 The alpha Principles for Ethical Use set out six points to align the use of data-driven technologies within government processes, programs and services with ethical considerations and values. Our team has undertaken extensive jurisdictional scans of ethical principles across the world, in particular the US the European Union and major research consortiums. The Ontario “alpha” principles complement the Canadian federal principles by addressing a gap concerning specificity. Ontario’s principles support our diverse economic ecosystem by not clashing with existing best practices, principles and frameworks. This approach references and harmonizes with known standards, principles and tools to create clarity rather than barriers for innovation that is safe, responsible and beneficial. 
 
-We’re in the early days of bringing these principles to life. We encourage you to adopt as much of the principles as possible, and to share your feedback for us.  You can send us an email *<dalia.hashim@ontario.ca>*, or see [CONTRIBUTING.md](https://github.com/ongov/AI-Principles/blob/master/CONTRIBUTING.md) for more details.*
+We’re in the early days of bringing these principles to life. We encourage you to adopt as much of the principles as possible, and to share your feedback for us.  You can send us an email *<dalia.hashim@ontario.ca>*, or see [CONTRIBUTING.md](https://github.com/ongov/AI-Principles/blob/master/CONTRIBUTING.md) for more details.
+
+You can also check out the [Transparency Guidelines](https://github.com/ongov/Transparency-Guidelines)
 
 Table of Contents
 ---------------------
