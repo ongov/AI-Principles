@@ -13,6 +13,8 @@ Nous en sommes aux premières étapes de la concrétisation de ces principes. No
 
 Nous commençons à peine à donner vie à ces lignes directrices. Nous vous encourageons à adopter ces lignes directrices le plus possible et de nous transmettre vos commentaires. Vous pouvez nous envoyer un courriel à <dalia.hashim@ontario.ca>, ou consulter [CONTRIBUTIONS-FR.md](https://github.com/ongov/AI-Principles/blob/master/CONTRIBUTING-FR.md) pour obtenir de plus amples renseignements.
 
+Consultez aussi [Lignes directrices sur la transparence](https://github.com/ongov/Transparency-Guidelines/blob/master/README-FR.md) 
+
 Table des matières
 ---------------------
 
