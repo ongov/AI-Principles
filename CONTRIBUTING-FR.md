@@ -9,7 +9,7 @@ Nous vous encourageons à lire la politique en matière de contributions de ce p
 
 Vous pouvez partager vos réflexions et vos idées en :
 
-* nous envoyant un courriel à digital.standard@ontario.ca
+* nous envoyant un courriel à dalia.hashim@ontario.ca
 * créant une fourche à partir de notre référentiel GitHub
 
 ### Par courriel
