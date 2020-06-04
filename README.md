@@ -34,7 +34,7 @@ Where automated decision making has been used to make individualized and automat
 
 ### Why it Matters?  
 
-There is no way to hold data-driven technologies accountable, particularly as they impact various historically disadvantaged groups if the public is unaware of the algorithms and automated decisions the government is making. Transparency of use must be accompanied with plain language explanations for the public to have access to and not just the technical or research community. For more on this, please consult the Transparency Guidelines.  
+There is no way to hold data-driven technologies accountable, particularly as they impact various historically disadvantaged groups if the public is unaware of the algorithms and automated decisions the government is making. Transparency of use must be accompanied with plain language explanations for the public to have access to and not just the technical or research community. For more on this, please consult the [Transparency Guidelines](https://github.com/ongov/Transparency-Guidelines).  
 
  
  
