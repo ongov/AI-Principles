@@ -1,5 +1,5 @@
 ---
-title: What we’ve heard so far/ Ce que nous avons entendu jusqu’à maintenant
+What we’ve heard so far/ Ce que nous avons entendu jusqu’à maintenant
 ---
 
 Feedback is only available in the language it was received. It has been
